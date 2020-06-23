@@ -1,0 +1,14 @@
+.buttons {
+  margin-left: 30px;
+  margin-bottom: 50px;
+}
+
+.button {
+  width: 100px;
+  height: 30px;
+  margin-right: 10px;
+  border: 1px solid lightskyblue;
+  background-color: lightblue;
+  font-weight: bolder;
+  text-transform: capitalize;
+}
